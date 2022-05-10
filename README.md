@@ -1,5 +1,2 @@
-"# sms-spam-classifier" 
-"# sms-spam-classifier" 
-"# sms-spam-classifier" 
-"# sms-spam-classifier" 
-"# sms-spam-classifier" 
+SMS SPAM CLASSIFIER
+heroku deployed link 'https://sms-spam-classy.herokuapp.com/'
